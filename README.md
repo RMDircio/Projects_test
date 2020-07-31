@@ -1,2 +1,2 @@
 # Projects_test
-Example
+This is my build week 1 project!
